@@ -101,5 +101,7 @@ wallet :
 
 view on phones : 
 
-![Screenshot (172)](https://github.com/user-attachments/assets/10aad300-a7db-4231-a242-9f2c7b6de124)
+
+![Screenshot 2024-09-21 215132](https://github.com/user-attachments/assets/0a436f0e-9aa5-480e-aa64-0fb4dbde7832)
+
 
