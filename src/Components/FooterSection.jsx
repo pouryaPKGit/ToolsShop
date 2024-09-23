@@ -66,7 +66,7 @@ const FooterSection = () => {
         </div>
     </div>
     <div className="mt-1 bg-[#ed242e] h-[60px] rounded-xl">
-        <p className="flex items-center justify-center text-white text-md xs:text-xl font-semibold mx-auto pt-3"> | Developede By : Mr Pourkhani |</p>
+        <p className="flex items-center justify-center text-white text-md xs:text-xl font-semibold mx-auto pt-3"> | Developed By : Mr Pourkhani |</p>
     </div>
     </div>
     </>
